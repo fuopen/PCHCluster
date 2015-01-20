@@ -20,6 +20,6 @@ e.g. /home/fuopen/pchcluster/
 then in Linux platform, the command line is:
 >cd /home/fuopen/pchcluster/
 
->Rscript PCHCluster example_set bin example_test >R_pchcluster.log 2>&1
+>Rscript PCHCluster.r example_set bin example_test >R_pchcluster.log 2>&1
 
 Further, if you have any questions or suggestions, or if you find some bugs, please contact to husile@picb.ac.cn.
